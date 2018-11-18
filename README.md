@@ -1,5 +1,6 @@
 # sysstat
 This is simple bash script
+
 It prints CPU load and temperature, RAM usage and total RAM, disk usage, etc.
 
 # Usage
